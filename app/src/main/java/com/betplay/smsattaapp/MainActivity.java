@@ -224,11 +224,11 @@ public class MainActivity extends AppCompatActivity {
         PrimaryDrawerItem charts = new PrimaryDrawerItem().withName("Charts").withIdentifier(101).withIcon(R.drawable.chart_new).withTypeface(face);
         PrimaryDrawerItem rate = new PrimaryDrawerItem().withName("GAME RATES").withIdentifier(2).withIcon(R.drawable.chart_iconn).withTypeface(face);
         PrimaryDrawerItem earn = new PrimaryDrawerItem().withName("Refer and Earn").withIcon(R.drawable.exchange).withIdentifier(21).withTypeface(face);
-        PrimaryDrawerItem notice = new PrimaryDrawerItem().withName("Notice").withIcon(R.drawable.warning).withIdentifier(3).withTypeface(face);
+        PrimaryDrawerItem notice = new PrimaryDrawerItem().withName("Notification").withIcon(R.drawable.warning).withIdentifier(3).withTypeface(face);
         PrimaryDrawerItem deposit = new PrimaryDrawerItem().withName("Deposit").withIcon(R.drawable.deposit_new).withIdentifier(4).withTypeface(face);
         PrimaryDrawerItem withdraw = new PrimaryDrawerItem().withName("WITHDRAW").withIcon(R.drawable.atm_withdraw).withIdentifier(41).withTypeface(face);
 //      PrimaryDrawerItem withdraw_details = new PrimaryDrawerItem().withName("PAYMENT DETAILS").withIcon(R.drawable.payment_method).withIdentifier(411).withTypeface(face);
-        PrimaryDrawerItem ledger = new PrimaryDrawerItem().withName("MY WINNINGS").withIcon(R.drawable.winning).withIdentifier(6).withTypeface(face);
+        PrimaryDrawerItem ledger = new PrimaryDrawerItem().withName("WIN (Rewards)").withIcon(R.drawable.winning).withIdentifier(6).withTypeface(face);
         PrimaryDrawerItem details = new PrimaryDrawerItem().withName("DETAILS").withIcon(R.drawable.transaction).withIdentifier(8).withTypeface(face);
         PrimaryDrawerItem played = new PrimaryDrawerItem().withName("GAME HISTORY").withIcon(R.drawable.console).withIdentifier(9).withTypeface(face);
         PrimaryDrawerItem howto = new PrimaryDrawerItem().withName("How to Play").withIcon(R.drawable.help).withIdentifier(10).withTypeface(face);

@@ -122,7 +122,7 @@
                         android:layout_marginRight="5dp"
                         android:layout_height="wrap_content"
                         android:textSize="13sp"
-                        android:text="Game Time"
+                        android:text="Time"
                         />
 
 
@@ -156,7 +156,7 @@
                         android:layout_marginRight="5dp"
                         android:layout_height="wrap_content"
                         android:textSize="12sp"
-                        android:text="Play Game"
+                        android:text="Let's Play"
                         />
 
                 </LinearLayout>

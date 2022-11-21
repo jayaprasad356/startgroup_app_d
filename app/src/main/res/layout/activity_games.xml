@@ -58,7 +58,7 @@
                     android:layout_centerVertical="true"
                     android:layout_gravity="center_vertical"
                     android:layout_marginLeft="10dp"
-                    android:text="Select Game"
+                    android:text=""
                     android:textColor="@color/font"
                     android:textSize="20sp" />
 

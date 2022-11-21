@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583689378279",
+    "project_id": "satta-king-1c3da",
+    "storage_bucket": "satta-king-1c3da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583689378279:android:1149335a2ee8b6c432c542",
+        "android_client_info": {
+          "package_name": "com.betplay.smsattaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583689378279-mdrsitocuiq5am1blglgkq2t7cukvphb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwDMLG-4szdAWKrlpU19v2fVJ-23hG1ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583689378279-mdrsitocuiq5am1blglgkq2t7cukvphb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

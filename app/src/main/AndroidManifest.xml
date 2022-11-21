@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.betplay.smsattaapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name="com.betplay.smsattaapp.TransactionList"
+            android:exported="false" />
+        <activity
+            android:name="com.betplay.smsattaapp.Support"
+            android:exported="false" />
+        <activity
+            android:name="com.betplay.smsattaapp.starline_games"
+            android:exported="false" />
+        <activity
+            android:name="com.betplay.smsattaapp.starline_timings"
+            android:exported="false" />
+        <activity
+            android:name="com.betplay.smsattaapp.starline_markets"
+            android:exported="false" />
+        <activity
+            android:name="com.betplay.smsattaapp.adapter_number_circles"
+            android:exported="false" />
+        <activity
+            android:name="com.betplay.smsattaapp.SpDpTp"
+            android:exported="false" />
+        <activity
+            android:name="com.betplay.smsattaapp.SpMotor"
+            android:exported="false" />
+        <activity
+            android:name="com.betplay.smsattaapp.RedBracket"
+            android:exported="false" />
+        <activity
+            android:name="com.betplay.smsattaapp.OddEven"
+            android:exported="false" />
+        <activity
+            android:name="com.betplay.smsattaapp.WithdrawDetails"
+            android:exported="false" />
+        <activity
+            android:name="com.betplay.smsattaapp.ForgotPassword"
+            android:exported="false" />
+        <activity
+            android:name="com.betplay.smsattaapp.MobileVerification"
+            android:exported="false" />
+        <activity android:name="com.betplay.smsattaapp.withdraw" />
+        <activity android:name="com.betplay.smsattaapp.single_bet" />
+        <activity android:name="com.betplay.smsattaapp.games" />
+        <activity android:name="com.betplay.smsattaapp.deposit_money" />
+        <activity android:name="com.betplay.smsattaapp.webview" />
+        <activity android:name="com.betplay.smsattaapp.chart_menu" />
+        <activity android:name="com.betplay.smsattaapp.charts" />
+        <activity android:name="com.betplay.smsattaapp.crossing" />
+        <activity android:name="com.betplay.smsattaapp.earn" />
+        <activity android:name="com.betplay.smsattaapp.fullsangam" />
+        <activity android:name="com.betplay.smsattaapp.halfsangam" />
+        <activity android:name="com.betplay.smsattaapp.betting" />
+        <activity android:name="com.betplay.smsattaapp.splash"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.betplay.smsattaapp.ledger" />
+        <activity android:name="com.betplay.smsattaapp.transactions" />
+        <activity android:name="com.betplay.smsattaapp.played" />
+        <activity android:name="com.betplay.smsattaapp.howot" />
+        <activity android:name="com.betplay.smsattaapp.thankyou" />
+        <activity android:name="com.betplay.smsattaapp.bazar" />
+        <activity android:name="com.betplay.smsattaapp.notice" />
+        <activity android:name="com.betplay.smsattaapp.rate" />
+        <activity android:name="com.betplay.smsattaapp.profile" />
+        <activity android:name="com.betplay.smsattaapp.signup" />
+        <activity android:name="com.betplay.smsattaapp.login" />
+        <activity android:name="com.betplay.smsattaapp.MainActivity" />
+    </application>
+
+</manifest>

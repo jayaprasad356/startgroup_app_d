@@ -65,7 +65,7 @@
                         android:textSize="20sp"
                         android:layout_centerVertical="true"
                         android:layout_marginLeft="10dp"
-                        android:text="Enter Amount"
+                        android:text="Enter Point"
                         />
 
 

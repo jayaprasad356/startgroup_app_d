@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Satta Online Matke Play</string>
+    <string name="app_name">Star Group</string>
 
     <!--APIs-->
     <string name="market_api">market.php</string>

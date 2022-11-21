@@ -12,7 +12,7 @@
         android:layout_height="match_parent"
         android:padding="50dp"
         android:layout_gravity="center_horizontal"
-        android:src="@drawable/logo" />
+        android:src="@drawable/applogo_stargroup" />
 
 
 </RelativeLayout>

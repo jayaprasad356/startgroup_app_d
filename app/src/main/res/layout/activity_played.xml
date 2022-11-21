@@ -171,7 +171,7 @@
                             android:layout_centerVertical="true"
                             android:layout_gravity="center_vertical"
                             android:layout_marginLeft="10dp"
-                            android:text="Played Match"
+                            android:text="History"
                             android:textColor="@color/md_black_1000"
                             android:textSize="20sp" />
 

@@ -170,7 +170,7 @@
                         android:layout_centerVertical="true"
                         android:layout_gravity="center_vertical"
                         android:layout_marginLeft="10dp"
-                        android:text="Transactions"
+                        android:text="Points"
                         android:textColor="@color/md_black_1000"
                         android:textSize="20sp" />
 
@@ -234,14 +234,14 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_centerHorizontal="true"
-                        android:text="Received"
+                        android:text="Got Point"
                         android:textColor="@color/figma_green" />
 
                     <com.betplay.smsattaapp.latobold
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_alignParentRight="true"
-                        android:text="Paid"
+                        android:text="With"
                         android:textColor="@color/figma_red" />
 
                 </RelativeLayout>

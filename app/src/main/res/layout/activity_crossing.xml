@@ -57,7 +57,7 @@
 
 
 
-                    <com.betplay.smsattaapp.latobold
+                    <com.betplay.stargroup.latobold
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
@@ -100,7 +100,7 @@
                             android:layout_weight="1"
                             >
 
-                            <com.betplay.smsattaapp.latobold
+                            <com.betplay.stargroup.latobold
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:text="Enter Number"
@@ -133,7 +133,7 @@
                             android:layout_weight="1"
                             >
 
-                            <com.betplay.smsattaapp.latobold
+                            <com.betplay.stargroup.latobold
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:text="Enter Amount"
@@ -175,7 +175,7 @@
                         android:paddingEnd="10dp"
                         android:layout_height="0dp">
 
-                        <com.betplay.smsattaapp.latonormal
+                        <com.betplay.stargroup.latonormal
                             android:layout_width="wrap_content"
                             android:textColor="@color/font"
                             android:textSize="22sp"
@@ -201,7 +201,7 @@
 
                     </LinearLayout>
 
-                    <com.betplay.smsattaapp.latobold
+                    <com.betplay.stargroup.latobold
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="Submit"

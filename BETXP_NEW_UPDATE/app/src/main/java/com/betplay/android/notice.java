@@ -1,4 +1,4 @@
-package com.betplay.smsattaapp;
+package com.betplay.stargroup;
 
 import android.os.Build;
 import android.os.Bundle;

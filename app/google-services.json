@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "583689378279",
-    "project_id": "satta-king-1c3da",
-    "storage_bucket": "satta-king-1c3da.appspot.com"
+    "project_number": "871709877614",
+    "project_id": "satta-makka",
+    "storage_bucket": "satta-makka.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:583689378279:android:1149335a2ee8b6c432c542",
+        "mobilesdk_app_id": "1:871709877614:android:07f99faa9ce6789df10d7f",
         "android_client_info": {
-          "package_name": "com.betplay.smsattaapp"
+          "package_name": "com.betplay.stargroup"
         }
       },
       "oauth_client": [
         {
-          "client_id": "583689378279-mdrsitocuiq5am1blglgkq2t7cukvphb.apps.googleusercontent.com",
+          "client_id": "871709877614-f8vbm1adr5638h33idehl0ne9a1f2cvo.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBwDMLG-4szdAWKrlpU19v2fVJ-23hG1ko"
+          "current_key": "AIzaSyANhSkTAdmpN27_pCW1yAn3OMslWeVmDYc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "583689378279-mdrsitocuiq5am1blglgkq2t7cukvphb.apps.googleusercontent.com",
+              "client_id": "871709877614-f8vbm1adr5638h33idehl0ne9a1f2cvo.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

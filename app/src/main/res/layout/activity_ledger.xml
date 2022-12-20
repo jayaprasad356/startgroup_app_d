@@ -52,7 +52,7 @@
                 </androidx.cardview.widget.CardView>
 
 
-                <com.betplay.smsattaapp.latobold
+                <com.betplay.stargroup.latobold
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_vertical"
@@ -90,7 +90,7 @@
                     android:weightSum="4"
                     >
 
-                    <com.betplay.smsattaapp.latonormal
+                    <com.betplay.stargroup.latonormal
                         android:layout_width="0dp"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
@@ -106,7 +106,7 @@
                         android:layout_height="match_parent"
                         />
 
-                    <com.betplay.smsattaapp.latonormal
+                    <com.betplay.stargroup.latonormal
                         android:layout_width="0dp"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
@@ -123,7 +123,7 @@
                         />
 
 
-                    <com.betplay.smsattaapp.latonormal
+                    <com.betplay.stargroup.latonormal
                         android:layout_width="0dp"
                         android:layout_height="wrap_content"
                         android:layout_weight="2"

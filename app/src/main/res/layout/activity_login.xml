@@ -67,7 +67,7 @@
             android:paddingBottom="20dp">
 
 
-            <com.betplay.smsattaapp.latobold
+            <com.betplay.stargroup.latobold
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Login"
@@ -77,7 +77,7 @@
                 android:textFontWeight="600"
                 android:textSize="33sp" />
 
-            <com.betplay.smsattaapp.latonormal
+            <com.betplay.stargroup.latonormal
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Enter your mobile number to continue"
@@ -126,7 +126,7 @@
 
 
 
-            <com.betplay.smsattaapp.latobold
+            <com.betplay.stargroup.latobold
                 android:id="@+id/submit"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -139,7 +139,7 @@
                 android:textSize="16sp" />
 
 
-            <com.betplay.smsattaapp.latobold
+            <com.betplay.stargroup.latobold
                 android:id="@+id/forgot"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -167,7 +167,7 @@
             android:layout_marginTop="10dp"
             android:layout_height="wrap_content">
 
-            <com.betplay.smsattaapp.latobold
+            <com.betplay.stargroup.latobold
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
@@ -178,7 +178,7 @@
                 android:text="Don't have an account ?"
                 android:textColor="@color/lightfont" />
 
-            <com.betplay.smsattaapp.latobold
+            <com.betplay.stargroup.latobold
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textFontWeight="600"

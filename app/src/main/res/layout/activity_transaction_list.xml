@@ -28,7 +28,7 @@
                 android:layout_height="wrap_content">
 
 
-                <com.betplay.smsattaapp.latobold
+                <com.betplay.stargroup.latobold
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@drawable/blue_button"
@@ -38,7 +38,7 @@
                     android:textFontWeight="600"
                     android:textSize="16sp" />
 
-                <com.betplay.smsattaapp.latobold
+                <com.betplay.stargroup.latobold
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
@@ -98,7 +98,7 @@
 
 
 
-                <com.betplay.smsattaapp.latobold
+                <com.betplay.stargroup.latobold
                     android:id="@+id/submit"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -163,7 +163,7 @@
                     </androidx.cardview.widget.CardView>
 
 
-                    <com.betplay.smsattaapp.latobold
+                    <com.betplay.stargroup.latobold
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_centerHorizontal="true"
@@ -204,7 +204,7 @@
                 android:orientation="vertical">
 
 
-                <com.betplay.smsattaapp.latobold
+                <com.betplay.stargroup.latobold
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="2dp"
@@ -224,20 +224,20 @@
                     android:paddingBottom="10dp"
                     >
 
-                    <com.betplay.smsattaapp.latobold
+                    <com.betplay.stargroup.latobold
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Date"
                         android:textColor="@color/md_black_1000" />
 
-                    <com.betplay.smsattaapp.latobold
+                    <com.betplay.stargroup.latobold
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_centerHorizontal="true"
                         android:text="Got Point"
                         android:textColor="@color/figma_green" />
 
-                    <com.betplay.smsattaapp.latobold
+                    <com.betplay.stargroup.latobold
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_alignParentRight="true"

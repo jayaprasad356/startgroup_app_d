@@ -54,7 +54,7 @@
 
 
 
-                <com.betplay.smsattaapp.latobold
+                <com.betplay.stargroup.latobold
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_vertical"
@@ -126,7 +126,7 @@
                     />
 
 
-                <com.betplay.smsattaapp.latobold
+                <com.betplay.stargroup.latobold
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Request Withdraw"
@@ -167,7 +167,7 @@
             android:src="@drawable/whatsapp"
             />
 
-        <com.betplay.smsattaapp.latobold
+        <com.betplay.stargroup.latobold
             android:layout_width="wrap_content"
             android:layout_gravity="center_vertical"
             android:layout_height="wrap_content"

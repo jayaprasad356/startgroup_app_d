@@ -53,7 +53,7 @@
 
 
 
-                <com.betplay.smsattaapp.latobold
+                <com.betplay.stargroup.latobold
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_vertical"
@@ -138,14 +138,14 @@
                             android:orientation="vertical"
                             android:layout_height="wrap_content">
 
-                            <com.betplay.smsattaapp.latobold
+                            <com.betplay.stargroup.latobold
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:text="Google Pay"
                                 android:textColor="@color/font"
                                 />
 
-                            <com.betplay.smsattaapp.latobold
+                            <com.betplay.stargroup.latobold
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:text="Auto approve"
@@ -175,14 +175,14 @@
                             android:orientation="vertical"
                             android:layout_height="wrap_content">
 
-                            <com.betplay.smsattaapp.latobold
+                            <com.betplay.stargroup.latobold
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:text="Phone Pe"
                                 android:textColor="@color/font"
                                 />
 
-                            <com.betplay.smsattaapp.latobold
+                            <com.betplay.stargroup.latobold
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:text="Auto approve"
@@ -214,14 +214,14 @@
                             android:orientation="vertical"
                             android:layout_height="wrap_content">
 
-                            <com.betplay.smsattaapp.latobold
+                            <com.betplay.stargroup.latobold
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:text="Paytm"
                                 android:textColor="@color/font"
                                 />
 
-                            <com.betplay.smsattaapp.latobold
+                            <com.betplay.stargroup.latobold
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:text="Manual approve by admin"
@@ -233,7 +233,7 @@
                     </LinearLayout>
                 </LinearLayout>
 
-                <com.betplay.smsattaapp.latobold
+                <com.betplay.stargroup.latobold
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Proceed to Payment"
@@ -275,7 +275,7 @@
             android:src="@drawable/whatsapp"
             />
 
-        <com.betplay.smsattaapp.latobold
+        <com.betplay.stargroup.latobold
             android:layout_width="wrap_content"
             android:layout_gravity="center_vertical"
             android:layout_height="wrap_content"

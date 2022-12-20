@@ -21,7 +21,7 @@
             android:layout_weight="4"
             >
 
-            <com.betplay.smsattaapp.latobold
+            <com.betplay.stargroup.latobold
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="2 Nov 2019"
@@ -30,7 +30,7 @@
                 android:textSize="12sp"
                 />
 
-            <com.betplay.smsattaapp.latonormal
+            <com.betplay.stargroup.latonormal
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Kalyan Open"
@@ -48,7 +48,7 @@
             android:layout_weight="4"
             >
 
-            <com.betplay.smsattaapp.latobold
+            <com.betplay.stargroup.latobold
                 android:layout_width="match_parent"
                 android:gravity="center_horizontal"
                 android:layout_height="wrap_content"
@@ -58,7 +58,7 @@
                 />
 
 
-            <com.betplay.smsattaapp.latonormal
+            <com.betplay.stargroup.latonormal
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center_horizontal"
@@ -78,7 +78,7 @@
             android:layout_weight="4"
             >
 
-            <com.betplay.smsattaapp.latobold
+            <com.betplay.stargroup.latobold
                 android:layout_width="match_parent"
                 android:gravity="right"
                 android:layout_height="wrap_content"
@@ -87,7 +87,7 @@
                 android:textSize="12sp"
                 />
 
-            <com.betplay.smsattaapp.latonormal
+            <com.betplay.stargroup.latonormal
                 android:layout_width="match_parent"
                 android:gravity="right"
                 android:id="@+id/amount"

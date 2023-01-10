@@ -10,8 +10,8 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:padding="50dp"
         android:layout_gravity="center_horizontal"
+        android:padding="50dp"
         android:src="@drawable/applogo_stargroup" />
 
 

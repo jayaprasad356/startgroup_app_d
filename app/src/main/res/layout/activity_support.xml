@@ -52,7 +52,7 @@
 
 
 
-                <com.betplay.stargroup.latobold
+                <com.betplay.stargroupapp.latobold
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_centerHorizontal="true"
@@ -90,7 +90,7 @@
                     />
 
 
-                <com.betplay.stargroup.latobold
+                <com.betplay.stargroupapp.latobold
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
@@ -98,7 +98,7 @@
                     android:textColor="@color/font"
                     android:textSize="27sp" />
 
-                <com.betplay.stargroup.latobold
+                <com.betplay.stargroupapp.latobold
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="(SUPPORT HELP DESK 24/7)"
@@ -106,7 +106,7 @@
                     android:textSize="16sp"
                     />
 
-                <com.betplay.stargroup.latobold
+                <com.betplay.stargroupapp.latobold
                     android:layout_width="wrap_content"
                     android:paddingLeft="40dp"
                     android:paddingRight="40dp"

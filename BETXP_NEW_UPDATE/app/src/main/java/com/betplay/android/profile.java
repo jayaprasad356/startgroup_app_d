@@ -1,4 +1,4 @@
-package com.betplay.stargroup;
+package com.betplay.stargroupapp;
 
 import android.content.SharedPreferences;
 import android.os.Bundle;

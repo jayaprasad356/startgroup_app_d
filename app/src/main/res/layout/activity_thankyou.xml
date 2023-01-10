@@ -55,7 +55,7 @@
 
 
 
-                <com.betplay.stargroup.latobold
+                <com.betplay.stargroupapp.latobold
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_vertical"
@@ -85,7 +85,7 @@
             app:tint="@color/accent"
             />
 
-        <com.betplay.stargroup.latonormal
+        <com.betplay.stargroupapp.latonormal
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="You bet placed successfully please wait till result will publish"
@@ -98,7 +98,7 @@
             android:textSize="18sp"
             />
 
-        <com.betplay.stargroup.latobold
+        <com.betplay.stargroupapp.latobold
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Back to home"

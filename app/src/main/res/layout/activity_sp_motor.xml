@@ -59,7 +59,7 @@
                         </androidx.cardview.widget.CardView>
 
 
-                        <com.betplay.stargroup.latobold
+                        <com.betplay.stargroupapp.latobold
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_centerHorizontal="true"
@@ -85,7 +85,7 @@
                         android:background="@drawable/wallet_out"
                         android:padding="10dp">
 
-                        <com.betplay.stargroup.latobold
+                        <com.betplay.stargroupapp.latobold
                             android:id="@+id/balance"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -132,7 +132,7 @@
                             android:background="@color/primary"
                             android:padding="3dp">
 
-                            <com.betplay.stargroup.latobold
+                            <com.betplay.stargroupapp.latobold
                                 android:layout_width="0dp"
                                 android:layout_height="match_parent"
                                 android:layout_weight="4"
@@ -153,7 +153,7 @@
                                 android:orientation="vertical"
                                 android:padding="10dp">
 
-                                <com.betplay.stargroup.latobold
+                                <com.betplay.stargroupapp.latobold
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:id="@+id/open_game"
@@ -164,7 +164,7 @@
                                     android:text="OPEN"
                                     />
 
-                                <com.betplay.stargroup.latobold
+                                <com.betplay.stargroupapp.latobold
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:layout_marginTop="10dp"
@@ -204,7 +204,7 @@
                                 android:layout_height="wrap_content"
                                 android:orientation="vertical">
 
-                                <com.betplay.stargroup.latobold
+                                <com.betplay.stargroupapp.latobold
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_marginStart="20dp"
@@ -234,7 +234,7 @@
                                 android:layout_height="wrap_content"
                                 android:orientation="vertical">
 
-                                <com.betplay.stargroup.latobold
+                                <com.betplay.stargroupapp.latobold
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_marginStart="20dp"
@@ -262,7 +262,7 @@
                         </LinearLayout>
 
 
-                        <com.betplay.stargroup.latobold
+                        <com.betplay.stargroupapp.latobold
                             android:id="@+id/add"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
@@ -368,7 +368,7 @@
                         android:id="@+id/digit_header"
                         android:weightSum="4">
 
-                        <com.betplay.stargroup.latonormal
+                        <com.betplay.stargroupapp.latonormal
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
@@ -381,7 +381,7 @@
                             android:layout_width="1dp"
                             android:layout_height="match_parent" />
 
-                        <com.betplay.stargroup.latonormal
+                        <com.betplay.stargroupapp.latonormal
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
@@ -395,7 +395,7 @@
                             android:layout_height="match_parent" />
 
 
-                        <com.betplay.stargroup.latonormal
+                        <com.betplay.stargroupapp.latonormal
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
                             android:layout_weight="2"
@@ -422,7 +422,7 @@
                         android:paddingStart="20dp"
                         android:paddingEnd="10dp">
 
-                        <com.betplay.stargroup.latonormal
+                        <com.betplay.stargroupapp.latonormal
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center_vertical"
@@ -446,7 +446,7 @@
 
                     </LinearLayout>
 
-                    <com.betplay.stargroup.latobold
+                    <com.betplay.stargroupapp.latobold
                         android:id="@+id/submit"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"

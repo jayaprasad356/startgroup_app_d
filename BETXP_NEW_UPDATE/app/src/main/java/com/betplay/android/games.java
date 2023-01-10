@@ -1,4 +1,4 @@
-package com.betplay.stargroup;
+package com.betplay.stargroupapp;
 
 import android.app.Activity;
 import android.content.Context;

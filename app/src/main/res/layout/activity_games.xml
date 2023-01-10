@@ -51,7 +51,7 @@
 
 
 
-                <com.betplay.stargroup.latobold
+                <com.betplay.stargroupapp.latobold
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_centerHorizontal="true"
@@ -121,7 +121,7 @@
                                     android:src="@drawable/single_icon"
                                     app:tint="@color/figma_red" />
 
-                                <com.betplay.stargroup.latobold
+                                <com.betplay.stargroupapp.latobold
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
@@ -166,7 +166,7 @@
                                     android:src="@drawable/jodi_icon"
                                     app:tint="@color/figma_red" />
 
-                                <com.betplay.stargroup.latobold
+                                <com.betplay.stargroupapp.latobold
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
@@ -219,7 +219,7 @@
                                     android:src="@drawable/singlepatti_icon"
                                     app:tint="@color/figma_red" />
 
-                                <com.betplay.stargroup.latobold
+                                <com.betplay.stargroupapp.latobold
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
@@ -266,7 +266,7 @@
                                     app:tint="@color/figma_red" />
 
 
-                                <com.betplay.stargroup.latobold
+                                <com.betplay.stargroupapp.latobold
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
@@ -320,7 +320,7 @@
                                     app:tint="@color/figma_red" />
 
 
-                                <com.betplay.stargroup.latobold
+                                <com.betplay.stargroupapp.latobold
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
@@ -365,7 +365,7 @@
                                     app:tint="@color/figma_red" />
 
 
-                                <com.betplay.stargroup.latobold
+                                <com.betplay.stargroupapp.latobold
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
@@ -419,7 +419,7 @@
                                     app:tint="@color/figma_red" />
 
 
-                                <com.betplay.stargroup.latobold
+                                <com.betplay.stargroupapp.latobold
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
@@ -465,7 +465,7 @@
                                     app:tint="@color/figma_red" />
 
 
-                                <com.betplay.stargroup.latobold
+                                <com.betplay.stargroupapp.latobold
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
@@ -517,7 +517,7 @@
                                     app:tint="@color/figma_red" />
 
 
-                                <com.betplay.stargroup.latobold
+                                <com.betplay.stargroupapp.latobold
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"

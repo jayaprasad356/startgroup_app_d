@@ -21,7 +21,7 @@
                 android:layout_height="wrap_content"
                 >
 
-                <com.betplay.stargroup.latonormal
+                <com.betplay.stargroupapp.latonormal
                     android:layout_width="0dp"
                     android:layout_weight="1"
                     android:layout_height="wrap_content"
@@ -32,7 +32,7 @@
                     android:textSize="15sp"
                     />
 
-                <com.betplay.stargroup.latonormal
+                <com.betplay.stargroupapp.latonormal
                     android:layout_width="0dp"
                     android:layout_weight="1"
                     android:layout_height="wrap_content"
@@ -49,7 +49,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
 
-                <com.betplay.stargroup.latonormal
+                <com.betplay.stargroupapp.latonormal
                     android:layout_width="0dp"
                     android:layout_weight="1"
                     android:layout_height="wrap_content"
@@ -61,7 +61,7 @@
                     android:id="@+id/game"
                     />
 
-                <com.betplay.stargroup.latonormal
+                <com.betplay.stargroupapp.latonormal
                     android:layout_width="0dp"
                     android:layout_weight="1"
                     android:layout_height="wrap_content"
@@ -74,7 +74,7 @@
                     />
 
 
-                <com.betplay.stargroup.latonormal
+                <com.betplay.stargroupapp.latonormal
                     android:layout_width="0dp"
                     android:layout_weight="1"
                     android:layout_height="wrap_content"
@@ -95,7 +95,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
 
-            <com.betplay.stargroup.latobold
+            <com.betplay.stargroupapp.latobold
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:visibility="gone"

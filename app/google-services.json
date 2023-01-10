@@ -33,6 +33,35 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871709877614:android:6b005ef0cd7b0f6cf10d7f",
+        "android_client_info": {
+          "package_name": "com.betplay.stargroupapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871709877614-f8vbm1adr5638h33idehl0ne9a1f2cvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANhSkTAdmpN27_pCW1yAn3OMslWeVmDYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871709877614-f8vbm1adr5638h33idehl0ne9a1f2cvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"

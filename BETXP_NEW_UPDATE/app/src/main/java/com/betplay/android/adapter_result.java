@@ -1,4 +1,4 @@
-package com.betplay.stargroup;
+package com.betplay.stargroupapp;
 
 
 import static android.content.Context.MODE_PRIVATE;

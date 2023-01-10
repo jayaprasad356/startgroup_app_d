@@ -30,7 +30,7 @@
                 >
 
 
-                <com.betplay.stargroup.latobold
+                <com.betplay.stargroupapp.latobold
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
@@ -42,7 +42,7 @@
                     android:textSize="16sp"
                     />
 
-                <com.betplay.stargroup.latobold
+                <com.betplay.stargroupapp.latobold
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"

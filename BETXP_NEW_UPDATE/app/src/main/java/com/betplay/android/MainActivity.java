@@ -1,4 +1,4 @@
-package com.betplay.stargroup;
+package com.betplay.stargroupapp;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -634,9 +634,9 @@ public class MainActivity extends AppCompatActivity {
         funds = findViewById(R.id.funds);
         support = findViewById(R.id.support);
 
-        mybids.setOnClickListener(v -> startActivity(new Intent(MainActivity.this, com.betplay.stargroup.played.class).setFlags(Intent.FLAG_ACTIVITY_NEW_TASK)));
-        passbook.setOnClickListener(v -> startActivity(new Intent(MainActivity.this, com.betplay.stargroup.transactions.class).setFlags(Intent.FLAG_ACTIVITY_NEW_TASK)));
-        funds.setOnClickListener(v -> startActivity(new Intent(MainActivity.this, com.betplay.stargroup.deposit_money.class).setFlags(Intent.FLAG_ACTIVITY_NEW_TASK)));
-        support.setOnClickListener(v -> startActivity(new Intent(MainActivity.this, com.betplay.stargroup.Support.class).setFlags(Intent.FLAG_ACTIVITY_NEW_TASK)));
+        mybids.setOnClickListener(v -> startActivity(new Intent(MainActivity.this, com.betplay.stargroupapp.played.class).setFlags(Intent.FLAG_ACTIVITY_NEW_TASK)));
+        passbook.setOnClickListener(v -> startActivity(new Intent(MainActivity.this, com.betplay.stargroupapp.transactions.class).setFlags(Intent.FLAG_ACTIVITY_NEW_TASK)));
+        funds.setOnClickListener(v -> startActivity(new Intent(MainActivity.this, com.betplay.stargroupapp.deposit_money.class).setFlags(Intent.FLAG_ACTIVITY_NEW_TASK)));
+        support.setOnClickListener(v -> startActivity(new Intent(MainActivity.this, com.betplay.stargroupapp.Support.class).setFlags(Intent.FLAG_ACTIVITY_NEW_TASK)));
     }
 }

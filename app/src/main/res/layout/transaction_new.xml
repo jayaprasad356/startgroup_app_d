@@ -12,14 +12,14 @@
         android:paddingRight="10dp"
         android:paddingBottom="15dp">
 
-        <com.betplay.stargroup.latonormal
+        <com.betplay.stargroupapp.latonormal
             android:id="@+id/date"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text=""
             android:textColor="@color/md_black_1000" />
 
-        <com.betplay.stargroup.latonormal
+        <com.betplay.stargroupapp.latonormal
             android:id="@+id/received"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -27,7 +27,7 @@
             android:text=""
             android:textColor="@color/figma_green" />
 
-        <com.betplay.stargroup.latonormal
+        <com.betplay.stargroupapp.latonormal
             android:id="@+id/paid"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

@@ -33,7 +33,7 @@
                 android:padding="5dp"
                 >
 
-                <com.betplay.stargroup.latonormal
+                <com.betplay.stargroupapp.latonormal
                     android:id="@+id/top"
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -42,7 +42,7 @@
                     android:textColor="@color/lightfont"
                     />
 
-                <com.betplay.stargroup.latobold
+                <com.betplay.stargroupapp.latobold
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center_horizontal"
@@ -54,7 +54,7 @@
                     android:layout_gravity="top"
                     />
 
-                <com.betplay.stargroup.latobold
+                <com.betplay.stargroupapp.latobold
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
@@ -65,7 +65,7 @@
                     android:textSize="20sp"
                     />
 
-                <com.betplay.stargroup.latobold
+                <com.betplay.stargroupapp.latobold
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
@@ -75,7 +75,7 @@
                     android:textSize="17sp"
                     />
 
-                <com.betplay.stargroup.latonormal
+                <com.betplay.stargroupapp.latonormal
                     android:id="@+id/info"
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -112,7 +112,7 @@
                         app:tint="@color/figma_red" />
 
 
-                    <com.betplay.stargroup.latonormal
+                    <com.betplay.stargroupapp.latonormal
                         android:layout_width="match_parent"
                         android:gravity="center"
                         android:layout_gravity="center_vertical"
@@ -146,7 +146,7 @@
                         android:src="@drawable/gama_play"
                         />
 
-                    <com.betplay.stargroup.latonormal
+                    <com.betplay.stargroupapp.latonormal
                         android:layout_width="match_parent"
                         android:gravity="center"
                         android:layout_gravity="center_vertical"

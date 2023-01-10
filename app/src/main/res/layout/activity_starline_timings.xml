@@ -36,7 +36,7 @@
                     android:id="@+id/back"
                     />
 
-                <com.betplay.stargroup.latobold
+                <com.betplay.stargroupapp.latobold
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@color/md_white_1000"
@@ -50,7 +50,7 @@
 
         </androidx.cardview.widget.CardView>
 
-        <com.betplay.stargroup.latobold
+        <com.betplay.stargroupapp.latobold
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Win Ratio"
@@ -59,7 +59,7 @@
             android:textSize="20sp"
             />
 
-        <com.betplay.stargroup.latonormal
+        <com.betplay.stargroupapp.latonormal
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
@@ -81,7 +81,7 @@
                 app:cardCornerRadius="5dp"
                 >
 
-                <com.betplay.stargroup.latonormal
+                <com.betplay.stargroupapp.latonormal
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="BID\nHISTORY"
@@ -104,7 +104,7 @@
                 app:cardCornerRadius="5dp"
                 >
 
-                <com.betplay.stargroup.latonormal
+                <com.betplay.stargroupapp.latonormal
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="RESULT\nHISTORY"
@@ -126,7 +126,7 @@
                 app:cardCornerRadius="5dp"
                 >
 
-                <com.betplay.stargroup.latonormal
+                <com.betplay.stargroupapp.latonormal
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="RESULT\nCHART"
@@ -186,7 +186,7 @@
                     android:id="@+id/back2"
                     />
 
-                <com.betplay.stargroup.latobold
+                <com.betplay.stargroupapp.latobold
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@color/md_white_1000"

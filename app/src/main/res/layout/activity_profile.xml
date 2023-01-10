@@ -51,7 +51,7 @@
                 </androidx.cardview.widget.CardView>
 
 
-                <com.betplay.stargroup.latobold
+                <com.betplay.stargroupapp.latobold
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_centerHorizontal="true"
@@ -82,7 +82,7 @@
                 >
 
 
-                <com.betplay.stargroup.latobold
+                <com.betplay.stargroupapp.latobold
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Manage profile"
@@ -129,7 +129,7 @@
                     />
 
 
-                <com.betplay.stargroup.latobold
+                <com.betplay.stargroupapp.latobold
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Update Profile"
@@ -142,7 +142,7 @@
 
 
 
-                <com.betplay.stargroup.latobold
+                <com.betplay.stargroupapp.latobold
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Change Password"
@@ -178,7 +178,7 @@
                     />
 
 
-                <com.betplay.stargroup.latobold
+                <com.betplay.stargroupapp.latobold
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Update Password"

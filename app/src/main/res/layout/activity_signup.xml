@@ -48,7 +48,7 @@
             android:orientation="vertical"
             >
 
-            <com.betplay.stargroup.latobold
+            <com.betplay.stargroupapp.latobold
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Signup"
@@ -148,7 +148,7 @@
 
 
 
-            <com.betplay.stargroup.latobold
+            <com.betplay.stargroupapp.latobold
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Register now"
@@ -171,7 +171,7 @@
                 android:layout_marginTop="10dp"
                 android:layout_height="wrap_content">
 
-                <com.betplay.stargroup.latobold
+                <com.betplay.stargroupapp.latobold
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
@@ -182,7 +182,7 @@
                     android:text="Already have an Account ?"
                     android:textColor="@color/lightfont" />
 
-                <com.betplay.stargroup.latobold
+                <com.betplay.stargroupapp.latobold
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:textFontWeight="600"

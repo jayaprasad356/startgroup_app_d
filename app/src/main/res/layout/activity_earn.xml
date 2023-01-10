@@ -58,7 +58,7 @@
 
 
 
-                    <com.betplay.stargroup.latobold
+                    <com.betplay.stargroupapp.latobold
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
@@ -95,7 +95,7 @@
                         android:src="@drawable/refer"
                         />
 
-                    <com.betplay.stargroup.latonormal
+                    <com.betplay.stargroupapp.latonormal
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="20dp"
@@ -105,7 +105,7 @@
                         android:text="REFER APP TO YOUR FRIENDS AND GET 10% OF THEIR DEPOSIT AMOUNT EVERY TIME."
                         />
 
-                    <com.betplay.stargroup.latonormal
+                    <com.betplay.stargroupapp.latonormal
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="20dp"
@@ -117,7 +117,7 @@
                         />
 
 
-                    <com.betplay.stargroup.latobold
+                    <com.betplay.stargroupapp.latobold
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:id="@+id/code"
@@ -133,7 +133,7 @@
                         android:textSize="25sp"
                         />
 
-                    <com.betplay.stargroup.latobold
+                    <com.betplay.stargroupapp.latobold
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
